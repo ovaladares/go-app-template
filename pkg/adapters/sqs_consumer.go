@@ -1,6 +1,6 @@
 package adapters
 
-import "github.com/otaviohenrique/go-app-example/pkg/ports"
+import "github.com/ovaladares/go-app-example/pkg/ports"
 
 type SqsConsumerResult struct{}
 

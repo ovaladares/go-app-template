@@ -3,8 +3,8 @@ package adapters
 import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/httplog"
-	"github.com/otaviohenrique/go-app-example/pkg/config"
-	"github.com/otaviohenrique/go-app-example/pkg/controller"
+	"github.com/ovaladares/go-app-example/pkg/config"
+	"github.com/ovaladares/go-app-example/pkg/controller"
 	"go.uber.org/zap"
 	"net/http"
 )

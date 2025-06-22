@@ -1,12 +1,12 @@
 package cmd
 
 import (
-	application "github.com/otaviohenrique/go-app-example/pkg"
-	"github.com/otaviohenrique/go-app-example/pkg/adapters"
-	"github.com/otaviohenrique/go-app-example/pkg/config"
-	"github.com/otaviohenrique/go-app-example/pkg/controller"
-	"github.com/otaviohenrique/go-app-example/pkg/logger"
-	"github.com/otaviohenrique/go-app-example/pkg/metrics"
+	application "github.com/ovaladares/go-app-example/pkg"
+	"github.com/ovaladares/go-app-example/pkg/adapters"
+	"github.com/ovaladares/go-app-example/pkg/config"
+	"github.com/ovaladares/go-app-example/pkg/controller"
+	"github.com/ovaladares/go-app-example/pkg/logger"
+	"github.com/ovaladares/go-app-example/pkg/metrics"
 	"github.com/spf13/cobra"
 	"os"
 	"os/signal"

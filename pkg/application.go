@@ -1,9 +1,9 @@
 package application
 
 import (
-	"github.com/otaviohenrique/go-app-example/pkg/config"
-	"github.com/otaviohenrique/go-app-example/pkg/metrics"
-	"github.com/otaviohenrique/go-app-example/pkg/ports"
+	"github.com/ovaladares/go-app-example/pkg/config"
+	"github.com/ovaladares/go-app-example/pkg/metrics"
+	"github.com/ovaladares/go-app-example/pkg/ports"
 	"go.uber.org/zap"
 	"os"
 	"syscall"

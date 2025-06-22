@@ -1,4 +1,4 @@
-module github.com/otaviohenrique/go-app-example
+module github.com/ovaladares/go-app-example
 
 go 1.19
 
